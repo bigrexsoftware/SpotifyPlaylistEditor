@@ -7,6 +7,10 @@
     {
       "id": "Songs",
       "isDefault": false
+    },
+    {
+      "id": "Import",
+      "isDefault": false
     }
   ],
   "viewMode": false,

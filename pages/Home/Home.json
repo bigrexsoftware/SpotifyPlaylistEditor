@@ -29,6 +29,14 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Home_GetAccessToken",
+              "name": "GetAccessToken",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
               "id": "Home_GetPlaylists",
               "name": "GetPlaylists",
               "confirmBeforeExecute": false,
